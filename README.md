@@ -1,0 +1,1 @@
+This project will be my first complete website highlighting what I have learned in HTML. The theme will be food, more specifically recipes. It will hopefully be a step further in my learning process and progress towards learning CSS. 
